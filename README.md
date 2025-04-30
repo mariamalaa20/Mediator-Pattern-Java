@@ -1,5 +1,3 @@
-# 💬 Chat Mediator System
-
 A lightweight implementation of the **Mediator Design Pattern** in Java, enabling structured communication between users without direct dependency on each other.
 
 ---
